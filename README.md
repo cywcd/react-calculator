@@ -1,5 +1,5 @@
 
-# react房贷计算器项目
+# react房贷计算器
 
 > This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
