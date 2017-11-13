@@ -1,10 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+# react贷款计算器项目
 
-## react贷款计算器项目  
-  dev: npm start
-  pro: yarn build
+> This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+## Build Setup
 
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:3000
+npm start
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+yarn build
+
+```
