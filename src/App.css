@@ -1,0 +1,93 @@
+html,body{height:100%;}
+#root,.App {
+  height:100%; background-color:#fff;
+}
+.badgeTitle{font-size:16px; margin-left:2px;}
+#root .am-list-item .am-list-line .am-list-content,#root .am-list-item .am-input-label,#root .am-list-header{font-size:16px;}
+
+.gjj-title1 {
+  position: relative;
+  top: 15px;
+  left: 0;
+  /* height: 160px */
+}
+
+#main1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#main2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#main3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.desc1 {
+  position: absolute;
+  left: 100px;
+  top: 0
+}
+
+.main-value {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  line-height: 15px;
+  left: 0;
+  top: 35px;
+  z-index: 999;
+  text-align: center;
+  font-size: 12px
+}
+.mint-radio-input:checked + .mint-radio-core {
+ background-color:#f08300;
+  border-color: #f08300;
+}
+.desc2 {
+  position: absolute;
+  left: 53%;
+  top: 0
+}
+.desc1,.desc2{font-size:14px;}
+.desc1 p {
+  margin: 2px
+}
+
+.desc2 p {
+  margin: 2px;
+}
+
+.main-icon1 {
+  width: 15px;
+  height: 15px;
+  background:#2f4554;
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 2px
+}
+  .main-icon2 {
+  width: 15px;
+  height: 15px;
+  background:#c23531;
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 2px
+}
+
+.main-bottom {
+  position: absolute;
+  left: 10px;
+  bottom: 15px
+}
+
+.radiobox .am-list-item .am-list-line .am-list-content{color:#999!important;}
+.am-list .am-list-header{color:#333;}
+.am-list-item .am-input-label.am-input-label-5{width:115px !important;}
