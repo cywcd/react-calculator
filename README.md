@@ -1,7 +1,7 @@
 
 # react房贷计算器
 
-> This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+> This project was antd-mobile with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Build Setup
 
