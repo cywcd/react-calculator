@@ -55,6 +55,9 @@
     "test": "node scripts/test.js --env=jsdom"
   },
   "proxy": "https://m.fang.com",
+  "resolutions": {
+    "cryptiles": "4.1.3"
+  },
   "devDependencies": {
     "antd-mobile": "^1.6.11",
     "antd-mobile-demo-data": "^0.1.4",
